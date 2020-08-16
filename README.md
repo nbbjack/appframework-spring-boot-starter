@@ -383,8 +383,8 @@ framework:
       confirm_url: "/custom/confirm_access"
       # token增强信息 可配置多个
       tokenInfo:
-        author: "Huang"
-        project: "test-framework"
+        author: "xxx"
+        project: "xxxx"
 ```
 
 #### 2.6 Restful API 返回统一的数据格式到前端
